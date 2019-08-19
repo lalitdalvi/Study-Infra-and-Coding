@@ -1,3 +1,0 @@
-WebInterface
-License Server
-Xenapp

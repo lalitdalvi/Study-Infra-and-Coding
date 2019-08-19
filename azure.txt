@@ -1,3 +1,0 @@
-Fundamentals
-Azure security Fundamentals
-Powershell
