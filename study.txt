@@ -1,4 +1,4 @@
 17092019
-Git revised
-Powershell 2 chapt
-SIEM download
+Git revision .....Revised by running the demo on Git bash
+Powershell - 2 chapt
+Start with SIEM
