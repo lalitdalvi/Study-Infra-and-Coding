@@ -1,28 +1,4 @@
-LODHA WORLD SCHOOL ,
-LSG, PALAVA
-
-Daily Prayers : Public Address System
-
-
-Day	Morning  
-
-	Before Meal	Dispersal
-Monday	CLASS ASSEMBLY		Thank you God for the world so sweet
-Tuesday	Sanskrit shloks :
-1) OM SARASWATI NAMASTUBHYAM
-2) GURUR BRAHMA GURUR VISHNU
-Wednesday	Sikh prayer : IK ONKAR SATNAAM
-Thursday	English prayer : EVERYTHING I AM
-Friday	Muslim prayer : LAB PE AATI HAI DUA BAN KE
-
-Format of the prayer
-7.25am : First bell (warning bell)
-7.30am : Prayer bell
-As soon as the bell goes, press the mic button and after the beep goes -
-1. Before the prayer :
-“GOOD MORNING, PLEASE JOIN YOUR HANDS AND CLOSE YOUR EYES FOR THE MORNING PRAYER.”
-
-2. Prayer starts
-
-3. After the prayer :
-“GOOD MORNING TEACHERS AND FRIENDS. HAVE A WONDERFUL DAY. THANK YOU.”
+17092019
+Git revised
+Powershell 2 chapt
+SIEM download
