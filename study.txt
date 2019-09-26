@@ -1,4 +1,0 @@
-17092019
-Git revision .....Revised by running the demo on Git bash
-Powershell - 2 chapt
-Start with SIEM
